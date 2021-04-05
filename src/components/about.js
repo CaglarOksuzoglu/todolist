@@ -22,9 +22,9 @@ import { Form, Input, Button, Checkbox } from 'antd';
 //    },
 //  };
 
-  const [Username,setUsername] = useState('');
-  const [Password, setPassword] = useState('');
-  const [Email, setEmail] = useState('');
+//  const [Username,setUsername] = useState('');
+//  const [Password, setPassword] = useState('');
+//  const [Email, setEmail] = useState('');
 
 //  function onRegister(e){
     // e.preventDefault();
